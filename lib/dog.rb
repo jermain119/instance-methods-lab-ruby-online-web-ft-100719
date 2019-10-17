@@ -1,5 +1,5 @@
-class Application
-  def initialize(name)
-    @name = name
+class Dog
+  def initialize(bark)
+    @bark = " woof!"
   end
 end
